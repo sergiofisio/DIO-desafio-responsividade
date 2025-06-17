@@ -2,11 +2,6 @@
 
 Este repositório contém a resolução do desafio de responsividade da DIO, que consiste em recriar a página inicial do Discord com design responsivo para diferentes tamanhos de tela, incluindo desktop e dispositivos móveis como o iPhone.
 
-<p align="center">
-  <img src="./docs/desktop_preview.png" alt="Prévia Desktop" width="800px">
-  <img src="./docs/mobile_preview.png" alt="Prévia Mobile (iPhone)" width="300px">
-</p>
-
 ## 🚀 Tecnologias Utilizadas
 
 * **HTML5:** Estrutura semântica da página.
